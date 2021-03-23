@@ -24,7 +24,7 @@ Projeto de desafio 01, com objetivo de ser uma pequena aplicação de atividades
 # 👨‍💻 Tecnologias utilizadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
-- [TypwScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
 - [jest](https://jestjs.io/)
 
